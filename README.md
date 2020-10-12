@@ -1,5 +1,4 @@
-# CustomTextClean
-
+# CustomCleanText
 ## A utility file for my own experiments in NLP. This is a text cleaning python file.
 
 ## Packages Used:
