@@ -34,4 +34,4 @@
 
 ## Output
 
-![Screenshot](../master/output.PNG)
+![Screenshot](output.PNG)
