@@ -1,0 +1,6 @@
+unidecode
+clean-text
+ftfy
+autocorrect
+emoji
+beautifulsoup4
